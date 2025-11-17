@@ -1,0 +1,7 @@
+public class Timeslot {
+    private String dan;
+    private int cas;
+    private String smena;
+
+    // Konstruktor, getteri, setteri
+}
